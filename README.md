@@ -1,6 +1,12 @@
 # WebGen
 a game engine that you dont have to install, simply add it to your web browser
 
+
+How to update: go to releases and install the code (just replace the file) or go into webgen.js code in github and copy it and paste it over the last code in webgen
+
+webgen is open source, feel free to branch and make it better!!!
+
+
 -how to use-
 Add the wengen file to your site and add the imports to your main js, not the webgen.js (will be found at imports.md for imports)
 -How to draw a circle and animate it-
